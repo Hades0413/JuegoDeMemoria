@@ -94,10 +94,10 @@ El botón de Reiniciar Juego permite reiniciar la partida, barajando las cartas 
 
 **Capturas_de_pantalla**:
 
-1. ![Inicio](Capturas_de_pantalla/1.png)
-2. ![Error](Capturas_de_pantalla/2.png)
-3. ![Cartas Coinciden](Capturas_de_pantalla/3.png)
-4. ![Seguir escogiendo](Capturas_de_pantalla/4.png)
+1. ![Inicio](Capturas_de_pantalla/image-1.png)
+2. ![Error](Capturas_de_pantalla/image-2.png)
+3. ![Cartas Coinciden](Capturas_de_pantalla/image-3.png)
+4. ![Seguir escogiendo](Capturas_de_pantalla/image-4.png)
 
 
 ## Personas Desarrolladoras del Proyecto
