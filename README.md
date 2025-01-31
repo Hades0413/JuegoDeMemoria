@@ -44,6 +44,9 @@ El proyecto consta de los siguientes archivos principales:
 
 Haz clic en "Iniciar" o presiona Ctrl + F5 para ejecutar la aplicación web en tu navegador.
 
+"https://localhost:44358/Pages/JuegoMemoria"
+El puerto puede cambiar
+
 4. **Interacción con el Juego**:
 
    ```bash
